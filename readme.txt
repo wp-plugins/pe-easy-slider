@@ -18,19 +18,15 @@ The simple plugin that allows you to display image slides with title linked to p
 
 **Configuration (see screenshot of backend):**
 
-* 1. Widget title.
-* 2. Category - select the category to display items. You may select the specified category or display items from all categories. Empty categories are not displayed.
-* 3. Number of slides in row.
-* 4. Number of posts displayed in widget - total number of slides. 
-* 5. Order direction (ascending, descending).
-* 6. Ordering type (date, title, most commented).
-* 7. Navigation (arrows, bullets)
-* 8. Image size from Wordpress settings (Settings -> Media). 
-* You can choose:
-* - thumbnail
-* - medium
-* - large
-* 9. Image height in px - if uploaded images for posts have not the same height for all you may make them equal by entering the height in pixels. It's not recommended since Google does not accept such solutions like changing image height with CSS but if you have no other choice ypu may use this option.
+1. Widget title.
+2. Category - select the category to display items. You may select the specified category or display items from all categories. Empty categories are not displayed.
+3. Number of slides in row.
+4. Number of posts displayed in widget - total number of slides. 
+5. Order direction (ascending, descending).
+6. Ordering type (date, title, most commented).
+7. Navigation (arrows, bullets)
+8. Image size from Wordpress settings (Settings -> Media). You can choose: thumbnail, medium, large
+9. Image height in px - if uploaded images for posts have not the same height for all you may make them equal by entering the height in pixels. It's not recommended since Google does not accept such solutions like changing image height with CSS but if you have no other choice ypu may use this option.
 
 == Installation ==
 
