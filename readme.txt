@@ -11,12 +11,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 The simple plugin that allows you to display image slides with title linked to posts from selected category. 
 
 == Description ==
-The simple plugin that allows you to display image slides with title linked to posts from selected category. The slide title appears with slide-in animation effect.
-The user may select the category or display items of all categories. 
-Number of slides is unlimited and you may specify how many slides you want to be visible in raw.
-Image sizes available to select from the list are determined at Media Settings of Wordpress. This way the plugin do not have to scale images by itself which is more site optimization friendly solution. 
+* The simple plugin that allows you to display image slides with title linked to posts from selected category. The slide title appears with slide-in animation effect.
+* The user may select the category or display items of all categories. 
+* Number of slides is unlimited and you may specify how many slides you want to be visible in raw.
+* Image sizes available to select from the list are determined at Media Settings of Wordpress. This way the plugin do not have to scale images by itself which is more site optimization friendly solution. 
 
 **Configuration (see screenshot of backend):**
+
 * 1. Widget title.
 * 2. Category - select the category to display items. You may select the specified category or display items from all categories. Empty categories are not displayed.
 * 3. Number of slides in row.
